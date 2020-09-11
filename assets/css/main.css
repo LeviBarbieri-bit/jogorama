@@ -1,0 +1,37 @@
+
+body {
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    font-weight: normal;
+    font-family: Roboto;
+}
+
+nav {
+    background-color:  #FF9F27;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav .logo-img {
+    height: 55px;
+}
+
+nav .btn-entrar {
+    background: #000000 ;
+    border-radius: 5px;
+    height: 46px;
+    width: 100px;
+}
+
+nav .icones-nav-item {
+    margin-right: 9px;
+}
+
+.nav-link {
+    margin-top: 5px;
+}
+
+.d-block {
+   
+}
