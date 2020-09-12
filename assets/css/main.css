@@ -7,6 +7,11 @@ body {
     font-family: Roboto;
 }
 
+.container {
+    float: left;
+    margin-top: 30px;
+}
+
 nav {
     background-color:  #FF9F27;
     font-weight: bold;
@@ -32,6 +37,81 @@ nav .icones-nav-item {
     margin-top: 5px;
 }
 
-.d-block {
-   
+
+
+.carousel-control-prev-icon {
+    background-image: url('../img/icones/esquerda_arrow.png');
+}
+
+.carousel-control-next-icon {
+    background-image: url('../img/icones/direita_arrow.png')
+}
+
+.carousel-control-next-icon, 
+.carousel-control-prev-icon {
+    width: 20px;
+    height: 61px;
+}
+
+.objetos-destaques-principal {
+    background-color: #FF9F27;
+    width: 332px;
+    height: 45px;
+    position: absolute;
+    top: 0px;
+    z-index: 1000;
+    border-radius:0% 0% 50px 0%;
+}
+
+.objetos-destaques-principal img{
+    font-weight: bold;
+    padding: 10px;
+    padding-right: 9.96px;
+}
+
+.carousel-caption {
+    text-align: justify;
+    padding-bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(0, 0, 0, 0.7);
+    margin-bottom: -20px;
+    padding-top: 3px;
+}
+
+.carousel-caption h5, .carousel-caption p {
+    margin-left: 10px;
+}
+
+.carousel-caption h5 {
+    font-size: 36px;
+}
+.carousel-caption p {
+    max-width: 700px;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+}
+.carousel {
+    
+    max-height: 594px;
+    max-width: 1058px;
+}
+
+
+
+@media only screen and (width:1440px) {
+    .carousel {
+    
+        max-height: 594px;
+        max-width: 1058px;
+    }
+
+    .Sidebar-direita {
+        margin-left: -10px !important;
+    }
+
 }
