@@ -194,14 +194,28 @@ nav .icones-nav-item {
     background: #EBEBEB;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     margin-top: 30px;
+    position: inherit;
+    border-radius:0% 0% 20px 0%;
 }
 
-.card-body .card-text,
-.card-body  .card-title {
+.card-body .card-conteudo,
+.card-body  .card-titulo {
     position: inherit;
 }
 
-.card-body  .card-title {
+.card-body .conteudo-completo {
+    color: black;
+    background-color:  #FF9F27;
+    border-radius:0% 0% 50px 0%;
+    width: 101px;
+    font-weight: bold;
+    height: 24px;
+    border:none!important;
+    font-size: 14px;
+    text-align: left;
+}
+
+.card-body  .card-titulo {
     font-size: 24px;
     line-height: 28px;
     font-style: normal;
@@ -211,7 +225,7 @@ nav .icones-nav-item {
     margin-bottom: -4px;
 }
 
-.card-body .text-muted {
+.card-body .text-data {
     color: #FF9F27 !important;
     font-size: 12px;
     font-size: 12px;
@@ -220,6 +234,28 @@ nav .icones-nav-item {
     font-weight: bold;
 }
 
+.img-card-noticia {
+   height: 100%;
+}
+
+.propaganda-lateral img{
+    margin-top: 33px;
+}
+
+footer {
+    padding: 10px 0 30px;
+    background-color:  #000000;
+}
+
+.rede-sociais {
+    float: right;
+    margin-top: 20px;
+}
+
+.link-footer a {
+    text-decoration:none; 
+    color: white;
+}
 
 
 @media only screen and (max-width:1440px) {
@@ -247,6 +283,12 @@ nav .icones-nav-item {
 
     .bloco-noticia {
         width: 1058px !important;
+        height: 174px;
+    }
+
+    .img-card-noticia {
+        width: 340px !important;
+        height: 172px !important;
     }
 }
 
