@@ -10,21 +10,21 @@
                         </div>
                         <div class="carousel-item active">
                             <img src="assets/img/carousel/banner1.png" class="d-block" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-md-block">
                                 <h5>Contra: Rogue Corps (PC)</h5>
                                 <p>Contra está de volta! Dois anos depois do fim das Guerras Alien, Damned City nasce do campo da última batalha.</p>
                             </div>        
                         </div>
                         <div class="carousel-item">
                             <img src="assets/img/carousel/banner1.png" class="d-block" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-md-block">
                             <h5>Contra: Rogue Corps (PC)</h5>
                                 <p>Contra está de volta! Dois anos depois do fim das Guerras Alien, Damned City nasce do campo da última batalha.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <img src="assets/img/carousel/banner1.png" class="d-block" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-md-block">
                             <h5>Contra: Rogue Corps (PC)</h5>
                                 <p>Contra está de volta! Dois anos depois do fim das Guerras Alien, Damned City nasce do campo da última batalha.</p>
                             </div>
@@ -47,7 +47,8 @@
                     </div>
                 </div>   
 
-                <div class="card mb-3 bloco-noticia">
+               
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/game1.png" class="card-img img-card-noticia" alt="...">
@@ -62,8 +63,8 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="card mb-3 bloco-noticia">
+            
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/doom.png" class="card-img img-card-noticia" alt="...">
@@ -79,7 +80,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 bloco-noticia">
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/game3.png" class="card-img img-card-noticia" alt="...">
@@ -95,7 +96,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 bloco-noticia">
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/game1.png" class="card-img img-card-noticia" alt="...">
@@ -111,7 +112,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 bloco-noticia">
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/doom.png" class="card-img img-card-noticia" alt="...">
@@ -127,7 +128,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 bloco-noticia">
+                <div class="card mb-3 bloco-noticia container-mobile">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img src="assets/img/noticias/game3.png" class="card-img img-card-noticia" alt="...">
@@ -142,7 +143,7 @@
                         </div>
                     </div>
                 </div>
-
+                
             </div>
             <div class="col-md-2 menu-sidebar">
                 <div class="sidebar">
@@ -152,14 +153,15 @@
                             <strong> JOGO MAIS NOVOS</strong>
                         </div>
                     </div>
-                    <div class="card eventos-importantes-sidebar">
+
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
                             <p class="card-text">Playstation 4, Playstation Vita</p>
                         </div>
                     </div>
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento2.png">
                             <h5 class="card-title">OlliOlli</h5>
@@ -167,7 +169,7 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
@@ -175,7 +177,7 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
@@ -183,17 +185,17 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
                             <p class="card-text">Playstation 4, Playstation Vita</p>
                         </div>
                     </div>
-                    <div class="propaganda-lateral">
+                    <div class="propaganda-lateral container-mobile">
                         <img src="assets/img/propaganda/propaganda1.png">
                     </div>
-
+                    
 
                     <div class="titulo-side-bar"  style="margin-bottom: 10px;margin-top: 23px;">
                         <div class="objetos-destaques-principal" style="position: inherit;">
@@ -201,14 +203,16 @@
                             <strong> JOGOS MAIS POPULARES</strong>
                         </div>
                     </div>
-                    <div class="card eventos-importantes-sidebar">
+
+                    
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
                             <p class="card-text">Playstation 4, Playstation Vita</p>
                         </div>
                     </div>
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento2.png">
                             <h5 class="card-title">OlliOlli</h5>
@@ -216,7 +220,7 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
@@ -224,7 +228,7 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
@@ -232,13 +236,14 @@
                         </div>
                     </div>
 
-                    <div class="card eventos-importantes-sidebar">
+                    <div class="card eventos-importantes-sidebar container-mobile">
                         <div class="card-body">
                             <img src="assets/img/eventos/evento1.png">
                             <h5 class="card-title">OlliOlli2: Welcome to Olliwood</h5>
                             <p class="card-text">Playstation 4, Playstation Vita</p>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>

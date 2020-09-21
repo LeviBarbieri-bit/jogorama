@@ -1,5 +1,5 @@
-<footer>
-  <div class="container">
+<footer class="footer">
+  <div class="container container-mobile">
     <div class="row">
       <div class="col-md-3">
         <img src="assets/img/jogorama2.png" alt="">

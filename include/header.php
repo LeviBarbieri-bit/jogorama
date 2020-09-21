@@ -12,10 +12,13 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light">
+        
         <a class="navbar-brand logo-img" href="#"><img src="assets/img/jogorama1.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        
+       
         <div class="collapse navbar-collapse d-lg-flex justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
@@ -39,22 +42,26 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Comunidade</a>
                 </li>
-                <li class="nav-item" style="margin-right: 30px;">
+         
+                <li class="nav-item">
                     <a class="nav-link" href="#" >Reportagens</a>
                 </li>
-                <li class="nav-item icones-nav-item">
+            </ul>  
+            <div >
+                <span class="nav-item icones-nav-item">
                     <a href="http://" target="_blank" rel="noopener noreferrer"><img src="assets/img/icones/facebook.svg" alt=""></a>
-                </li>
-                <li class="nav-item icones-nav-item">
+                </span>
+                <span class="nav-item icones-nav-item">
                     <a href="http://" target="_blank" rel="noopener noreferrer"><img src="assets/img/icones/twitter.svg" alt=""></a>
-                </li>
-                <li class="nav-item icones-nav-item">
+                </span>
+                <span class="nav-item icones-nav-item">
                     <a href="http://" target="_blank" rel="noopener noreferrer"><img src="assets/img/icones/youtube.svg" alt=""></a>
-                </li>
-                <li class="nav-item icones-nav-item">
+                </span>
+                <span class="nav-item icones-nav-item">
                     <a href="http://" target="_blank" rel="noopener noreferrer"><img src="assets/img/icones/buscaIcone.svg" alt=""></a>
-                </li>
-                <li class="nav-item"> <button class="btn btn-dark btn-entrar" type="button">Entrar</button></li>
-            </ul>
+                </span>
+                <span class="nav-item"> <button class="btn btn-dark btn-entrar" type="button">Entrar</button></span>
+            </div>  
+            
         </div>
     </nav>
